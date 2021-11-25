@@ -9,7 +9,7 @@ Sou um Fullstack developer. Estou sempre buscando novos desafios e aprendendo no
 pois acredito que o caminho para a inovação é está em contato com melhor no mundo. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffer3941&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <code><img height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
