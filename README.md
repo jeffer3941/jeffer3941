@@ -1,13 +1,13 @@
 
-# Oi, Eu sou Jefferson! :D
+# Hi, I'm Jefferson! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jeffer3941)](https://github.com/jeffer3941)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-monteiro-577396152/)](https://www.linkedin.com/in/jefferson-monteiro-577396152/)
 
-### Sobre mim 
+### About me 
 
-Sou um engenheiro de software com alguns anos de experiência no mercado, atuando em arquiteturas de software robustas e escaláveis. Estou focado no desenvolvimento de aplicativos móveis robustos e funcionais utilizando o React native com Arquitetura Limpa, padrão MVVM, TDD e Clean Code. Participando ativamente em todos os ciclos de vida da aplicação. 
+I am a Software Engineer with several years of experience in the industry, specializing in building robust and scalable software architectures. My focus is on developing high-performance and functional mobile applications using React Native, following Clean Architecture, the MVVM pattern, TDD, and Clean Code principles. I actively participate in all stages of the application lifecycle.
 
-Além do mobile possuo experiência com aplicações web como: React.js, Vite e next.js e BackEnd com o Laravel, Nest.js e express.js.
+Beyond mobile development, I also have experience with web applications using React.js, Vite, and Next.js. On the backend, I have worked with Laravel, Nest.js, and Express.js.
 
-Para resolver problemas e garantir o sucesso do projeto. Estou sempre aprimorando meus conhecimentos e criando soluções que será convertido em números positivos para o time e projeto
+I am constantly improving my skills and developing solutions that drive measurable results for teams and projects, ensuring efficiency and success.
